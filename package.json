@@ -1,0 +1,7 @@
+{
+  "name": "yarn-pnp-puppeteer-repro",
+  "packageManager": "yarn@4.2.2",
+  "dependencies": {
+    "puppeteer": "^22.15.0"
+  }
+}
